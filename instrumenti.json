@@ -1,0 +1,32 @@
+[
+	{
+		"klasa" : "gitare",
+		"naslov":"Gitare",
+		"links":"gitare.html"
+	},
+	{
+		"klasa" : "ozvucenje",
+		"naslov":"Ozvučenje",
+		"links":"ozvucenje.html"
+	},
+	{
+		"klasa" : "djOprema",
+		"naslov":"DJ oprema",
+		"links":"dj-oprema.html"
+	},
+	{
+		"klasa" : "klavijature",
+		"naslov":"Klavijature",
+		"links":"klavijature.html"
+	},
+	{
+		"klasa" : "studio",
+		"naslov":"Studio",
+		"links":"studio.html"
+	},
+	{
+		"klasa" : "klasicni",
+		"naslov":"Klasični instrumenti",
+		"links":"violine.html"
+	}
+]
